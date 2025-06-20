@@ -17,10 +17,10 @@ I am an aspiring software engineer with a specialty in cloud computing. I have a
 **Amazon Web Services (AWS)**, **Microsoft Azure**, **Google Cloud Platform (GCP)**
 
 ### 🧰 Tools & DevOps  
-**Docker**, **Kubernetes**, **Git**, **Jenkins**
+**Docker**, **CloudWatch**, **Kubernetes**, **Git**, **Jira**, **Jenkins**
 
 ### ⚙️ Frameworks / Libraries  
-**React**, **Flask**, **Angular**, **Pandas**, **Figma**, **Jira**
+**React**, **Flask**, **Angular**, **Pandas**, **Figma**
 
 ### 🗃️ Databases  
 **SQLite**, **MySQL**, **Firebase**, **MongoDB**
