@@ -3,7 +3,7 @@
 
 ## 🌐 About Me
 
-I am an aspiring software engineer with a specialty in cloud computing. I have a passion for developing reliable and secure systems, with a keen interest in building scalable applications that make a real-world impact. I'm currently pursuing an Honours Bachelor's Degree in Computer Science with a specialization in Cloud Computing.
+I am an aspiring software engineer with a specialty in cloud computing. I have a passion for developing reliable and secure systems, with a keen interest in building scalable applications that make a real-world impact. I'm currently pursuing an Honours Bachelor's Degree in Computer Science.
 
 ---
 
