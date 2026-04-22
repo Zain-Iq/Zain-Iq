@@ -28,7 +28,7 @@ I am an aspiring software engineer with a specialty in cloud computing. I have a
 ---
 
 ## 🚀 Projects
-### 🔸 DenQuest
+### 🔸 DenQuest (In Development)
 DenQuest is a mobile application built with React Native that helps families, roommates, and shared households organize and distribute tasks efficiently. The app allows users to create shared “dens” (households), assign chores, track responsibilities, and collaborate in real time to maintain a balanced workload. Designed with usability and scalability in mind, DenQuest provides an intuitive interface for managing daily responsibilities while promoting accountability and transparency among members. The goal is to simplify household coordination through a centralized, interactive platform.
 
 ### 🔸 DeeDesigns  
