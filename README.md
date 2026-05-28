@@ -43,6 +43,6 @@ An e-commerce website designed and developed for an Indigenous artist and small 
 
 ## 🤝 Connect With Me
 
-🔗 [LinkedIn](https://www.linkedin.com/in/zain-iqbal-615472198/)
+🔗 [LinkedIn](https://www.linkedin.com/in/iqzain/)
 
 ---
