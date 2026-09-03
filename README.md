@@ -34,6 +34,13 @@ DenQuest is a mobile application built with React Native that helps families, ro
 ### 🔸 MindGuard (In Development) 
 A mobile application built to assist individuals with mental health awareness and monitoring. Features an AI-assisted chatbot that learns user behavior patterns and adapts its responses using machine learning, offering personalized, supportive conversations to aid mental well-being.
 
+---
+
+## 🚀 Freelance Work 
+
+### 🔸 MariettaMassage
+Marietta Massage is a small business website for an ocean-inspired massage therapy practice. The site is built to help customers understand the business, view services and pricing, check hours, and submit appointment requests. It also includes an owner-facing admin area for reviewing appointment submissions, changing request status, and viewing requests in a simple calendar layout.
+
 ### 🔸 DeeDesigns  
 An e-commerce website designed and developed for an Indigenous artist and small business owner who creates handmade jewelry, especially beadwork earrings. The site highlights the artist’s unique story and provides a modern, user-friendly shopping experience to promote Indigenous culture through art.
 
